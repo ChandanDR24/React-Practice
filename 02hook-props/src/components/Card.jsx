@@ -9,6 +9,7 @@ export default function Card({username, price}) {
           alt="test"
           className="object-cover object-center rounded-t-xl"
         />
+        <h1>hii</h1>
       </div>
       <div className="flex flex-col py-3 px-3 pb-10">
         <div className="flex justify-between ">
